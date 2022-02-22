@@ -7474,6 +7474,23 @@
       }
     },
     {
+      "displayName": "버거킹",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "버거킹",
+        "brand:en": "Burger King",
+        "brand:ko": "맥도날드",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "ko:버거킹",
+        "cuisine": "burger",
+        "name": "버거킹",
+        "name:en": "Burger King",
+        "name:ko": "버거킹",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "ウェンディーズ",
       "id": "wendys-3e7699",
       "locationSet": {"include": ["jp"]},
